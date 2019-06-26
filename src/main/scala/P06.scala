@@ -2,6 +2,6 @@ package org.p99.scala
 
 object P06 {
 
-  // TODO
+  def isPalindrome[T](list: List[T])= list == list.reverse
 
 }

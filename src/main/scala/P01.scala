@@ -2,6 +2,6 @@ package org.p99.scala
 
 object P01 {
 
-  // TODO
+  def last[T](list: List[T])= list.last
 
 }
